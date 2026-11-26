@@ -82,6 +82,7 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [ProWritingAid](https://prowritingaid.com/) – Writing coach and editor.
 - [Hemingway Editor](https://hemingwayapp.com/) – App to make your writing bold and clear.
 - [NovelPad](https://novelpad.co/) – Cloud-based novel writing platform.
+- [Revise AI](https://www.revise.net/) – AI line editor that shows grammar, clarity, and style suggestions as tracked changes you accept or reject, so the draft keeps the writer's voice.
 
 ## Legal & Business
 
